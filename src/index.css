@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+.app{
+  padding: 20px;
+  width: 100vw;
+  height: 100vh;
+}
+.title{
+  color:yellow
+}
+.dark-mode {
+  background-color: #080536;
+}
+.mode-btn{
+  border-radius:10px;
+  width: 5vw;
+  height: 5vh;
+  font-size: large;
+  border: 0;
+  background-color: yellow;
+}
+
